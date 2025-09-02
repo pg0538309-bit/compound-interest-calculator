@@ -274,4 +274,3 @@ function StatCard({ title, value, sub }: { title: string; value: string; sub?: s
     </div>
   );
 }
-# compound-interest-calculator
